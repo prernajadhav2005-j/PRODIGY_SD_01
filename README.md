@@ -16,10 +16,12 @@
 -Beginner-friendly and easy to understand code
 
 4. Technologies Used:-
-     -Frontend:XML
-     -Backend: Java
-     -IDE: Android Studio
-     -Platform: Android SDK
+-Frontend:XML
+-Backend: Java
+-IDE: Android Studio
+-Platform: Android SDK
+
+
 4.How the App Works:-
 -User enters a temperature value.
 -Selects the desired conversion type.
