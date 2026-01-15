@@ -19,7 +19,6 @@
      -Backend: Java
      -IDE: Android Studio
      -Platform: Android SDK
-
 4.How the App Works:-
      -User enters a temperature value.
      -Selects the desired conversion type.
