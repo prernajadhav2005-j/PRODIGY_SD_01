@@ -30,3 +30,5 @@
 - Selects the desired conversion type.
 - The app performs the calculation.
 - Converted temperature is displayed instantly on the screen.
+
+5. Author:- Prerna Jadhav
