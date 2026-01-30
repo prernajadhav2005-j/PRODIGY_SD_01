@@ -31,4 +31,6 @@ PRODIGY_SD_01
 - The app performs the calculation.
 - Converted temperature is displayed instantly on the screen.
 
-5. Author:- Prerna Jadhav
+5. Result:- https://github.com/user-attachments/assets/75bde8eb-fd15-4f29-bb6f-a0799eaaa4df
+
+6. Author:- Prerna Jadhav
